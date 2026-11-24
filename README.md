@@ -17,6 +17,7 @@ Nous développons une caméra motorisée capable de repérer un objet dans le fl
 
 Par exemple, si l’objet se déplace vers la droite de l’image, la caméra pivote vers la droite pour le ramener vers le centre.
 
+
 <!-- Capture du suivi
 ![Capture du flux vidéo avec l’objet encadré et le centre de l’image repéré](docs/images/detection.png)
 -->
@@ -33,10 +34,7 @@ Par exemple, si l’objet se déplace vers la droite de l’image, la caméra pi
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4299d2fe-0cb5-4b6e-a84d-c306368a3a6b" />
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d0aad480-4d24-4f9c-841f-eece649db1f1" />
-
-<!-- Gros plan du montage
-![Détail du support motorisé montrant les deux axes de rotation](docs/images/montage-pan-tilt.jpg)
--->
+*Figure 1 — Détail du support motorisé montrant les deux axes de rotation.*
 
 ## Démonstration et validation
 
